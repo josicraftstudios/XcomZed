@@ -5,16 +5,15 @@ using entitys;
 
 class Rendere
 {
-    static public void RenderWorld()
+    static public void RenderWorld(int width, int height)
     {
         RenderTile[,] Grid = new RenderTile[
-            Xcom.Map.GetLength(0),
-            Xcom.Map.GetLength(1)
+            width, height
         ];
 
-        for (int i = 0; i < Grid.GetLength(0); i++)
+        for (int i = 0; i <width; i++)
         {
-            for (int j = 0; j < Grid.GetLength(1); j++)
+            for (int j = 0; j < height; j++)
             {
                 Grid[i, j] = new RenderTile('#',ConsoleColor.Red);
             }
@@ -25,7 +24,7 @@ class Rendere
             for (int j = 0; j < Grid.GetLength(1); j++)
             {
                 Console.ForegroundColor = Grid[i, j].color;
-                Console.Write(Grid[i, j].Sign);
+                Console.Write($"{Grid[i, j].Sign}  ");
             }
 
             Console.WriteLine();

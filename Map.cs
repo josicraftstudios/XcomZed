@@ -15,8 +15,8 @@ class world()
         return outcome;
     }
 
-    public static void Render(){
-        Rendere.RenderWorld();
+    public static void Render(int width, int height){
+        Rendere.RenderWorld(width,height);
     }
 }
 
