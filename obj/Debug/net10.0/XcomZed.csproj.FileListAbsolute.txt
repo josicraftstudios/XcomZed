@@ -12,3 +12,4 @@ C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\refint\XcomZ
 C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.pdb
 C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.genruntimeconfig.cache
 C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\ref\XcomZed.dll
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.sourcelink.json

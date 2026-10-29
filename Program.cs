@@ -1,13 +1,15 @@
 ﻿using entitys;
 using World;
 
-class Xcom() {
+public class Xcom() {
 
-    Tile[,] Map = world.CreateGrid(10,10);
+    public static Tile[][] Map = world.CreateGrid(10,10);
 
     static void Main()
     {
         Operator guy = new Operator("Emil", [2, 2]);
         Console.WriteLine(guy.Name);
+
+        world.Render();
     }
 }

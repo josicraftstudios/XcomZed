@@ -4,13 +4,13 @@ using Renderring;
 
 class world()
 {
-    public static Tile[,] CreateGrid(int width, int height)
+    public static Tile[][] CreateGrid(int width, int height)
     {
-        Tile[,] outcome = new Tile[width, height];
+        Tile[][] outcome = new Tile[width][height];
         return outcome;
     }
 
-    public static Render(){
+    public static void Render(){
         Rendere.RenderWorld();
     }
 }
