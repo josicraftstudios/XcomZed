@@ -1,0 +1,14 @@
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\bin\Debug\net10.0\XcomZed.exe
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\bin\Debug\net10.0\XcomZed.deps.json
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\bin\Debug\net10.0\XcomZed.runtimeconfig.json
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\bin\Debug\net10.0\XcomZed.dll
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\bin\Debug\net10.0\XcomZed.pdb
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.dll
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\refint\XcomZed.dll
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.pdb
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\XcomZed.genruntimeconfig.cache
+C:\Users\johan\OneDrive\Dokumenter\GitHub\XcomZed\obj\Debug\net10.0\ref\XcomZed.dll
