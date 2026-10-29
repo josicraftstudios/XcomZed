@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XcomZed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfe4d82c15b60c499e72f4fb6187733178c70603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+054ebd1df06ea1ee71fc042f98e5d76ed3a9357f")]
 [assembly: System.Reflection.AssemblyProductAttribute("XcomZed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XcomZed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
