@@ -2,9 +2,26 @@ namespace entitys;
 
 public class Operator:Entity
 {
-    public Operator(string name,int[] pos){
-        this.x = pos[0];
-        this.y = pos[1];
+    public char Sign;
+    public ConsoleColor color;
+
+    public Operator(string name,char Sign)
+    {
         this.Name = name;
+        this.Sign = Sign;
+        this.color = color;
     }
+
+}
+
+public class OpData
+{
+    public static Operator[] Troops =
+    [
+        new Operator("Merlin",'M'),
+        new Operator("Whistle",'W'),
+        new Operator("Hedgehog",'S'),
+        new Operator("Bullfrog",'F'),
+        new Operator("Bison",'B')
+    ];
 }
